@@ -1,0 +1,18 @@
+name = "mani-app"
+compatibility_date = "2025-03-23"
+
+[vars]
+DATABASE_URL = "prisma://accelerate.prisma-data.net/?api_key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGlfa2V5IjoiN2VjNzQ2MDUtMDVlZC00OWU3LThiM2ItOWQwYzk4Njc0MWQzIiwidGVuYW50X2lkIjoiMzg3YmY1MjEwMjBkNTY0MDU4NzVlY2QxM2Q5YzNiYjQ2YWU1Y2Y5MDU0Y2ZkYjBkYmMwZjZhMWUwZjQ4M2E3NCIsImludGVybmFsX3NlY3JldCI6IjI4NWRmZjlkLWQzNGUtNDIzOS1iODBkLWQ2YTg1MWEzMmZlMiJ9.1dzFxXYWlCIAl7XCQC4V9xqeg3p1vZh7U3rq-b5YM40"
+JWT_SECRET = ""
+# [[kv_namespaces]]
+# binding = "MY_KV_NAMESPACE"
+# id = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+
+# [[r2_buckets]]
+# binding = "MY_BUCKET"
+# bucket_name = "my-bucket"
+
+# [[d1_databases]]
+# binding = "DB"
+# database_name = "my-database"
+# database_id = ""
